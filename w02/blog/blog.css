@@ -1,0 +1,24 @@
+body {
+  border: 20px solid #bdc3c7; /*邊框粗細大小*/
+  margin: 20px auto; /*邊框與葉面邊界距離*/
+  padding: 20px; /*字與邊框距離*/
+  width: 80%; /*寬度*/
+  font-family: Arial, Helvetica, sans-serif; /*自型*/
+  font-size: 16px; /*整體大小*/
+}
+.date {
+  text-transform: uppercase; /*大寫*/
+  letter-spacing: 0.15em; /*字的間距*/
+  color: #3c70aa;
+}
+h2 {
+  font-size: 2em; /*字的大小*/
+  font-weight: bold;
+  color: #374c60;
+}
+.aaa {
+  border-left: 5px solid #bdc3c7; /*文前一直槓*/
+}
+.bbb {
+  margin-bottom: 30px; /*與margin底部的距離*/
+}

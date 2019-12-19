@@ -1,0 +1,40 @@
+body {
+  /* 寬度 */
+  width: 40%;
+  /* 左右對齊 */
+  margin: 20px auto;
+  /* 字與邊框的距離 */
+  padding: 20px;
+  /* 邊線的寬度和顏色 */
+  border: 20px solid #bdc3c7;
+  /* 文字的大小 */
+  font-size: 50px;
+  /* 字體種類 */
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.post {
+  /* 分隔線與日期的距離 */
+  margin-bottom: 20px;
+}
+
+.date {
+  /* 日期的字形 */
+  text-transform: uppercase;
+  /* 日期的字的間隔 */
+  letter-spacing: 0.15em;
+  color: #3498db;
+}
+
+h2 {
+  /* 標題的大小寬度 */
+  font-size: 2em;
+  font-weight: bold;
+  color: #374c60;
+}
+
+.quote {
+  /* 首段的直線距離 */
+  border-left: 10px solid #bdc3c7;
+  padding: 10px;
+}

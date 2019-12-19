@@ -1,0 +1,38 @@
+#line3 img {
+  width: 30%;
+  margin: 1.66%;
+  float: left;
+}
+
+#line4 img {
+  width: 22%;
+  margin: 1.5%;
+  float: left;
+}
+
+#line5 img {
+  width: 17%;
+  margin: 1.5%;
+  float: left;
+}
+.clearfix {
+  clear: both;
+}
+p {
+  /* 大寫 */
+  text-transform: uppercase;
+  /* 字體 */
+  font-family: Arial, Helvetica, sans-serif;
+  /* 字體大小 */
+  font-size: 20px;
+  /* 字體寬度 */
+  font-weight: 600;
+  /* 字體下方斜線 */
+  border-bottom: 2px solid #f1f1f1;
+  width: 20%;
+  /* 字距離線的距離 */
+  padding-bottom: 15px;
+  /* 跟左上角的距離 */
+  margin: 1.66%;
+}
+/*  */
