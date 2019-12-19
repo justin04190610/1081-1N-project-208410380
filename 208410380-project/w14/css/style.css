@@ -1,0 +1,9 @@
+.navbar .nav-link{
+    font-size: 14px;
+    text-transform: uppercase; /*大寫 */
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+}
+.carousel-item{
+    height: 400px;
+}

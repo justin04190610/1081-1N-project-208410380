@@ -1,0 +1,56 @@
+body {
+    width: 90%;
+    margin: 20px auto;
+  }
+  #heading {
+    /* 標題的高度 */
+    height: 70px;
+    /* 標題的背景顏色 */
+    background-color: darkcyan;
+    /*  */
+    text-align: center;
+    /* 距離頂端的高度 */
+    font-size: 20px;
+  }
+  
+  #section {
+    /* ? */
+    float: right;
+    /* section的寬度 */
+    width: 99.7%;
+    /* section的高度 */
+    height: 800px;
+    /* 背景 */
+    background-color: rgb(152, 230, 230);
+    /* 邊線的寬度和顏色 */
+    border: 2px solid purple;
+  }
+  
+  #section a {
+    /* ? */
+    position: relative;
+    margin: 50px;
+  }
+  
+  #heading nav ul {
+    padding: 0px;
+  }
+  
+  #heading nav li {
+    /* 按鈕的位置 */
+    float: left;
+    list-style-type: none;
+    /* 標題的寬度和高度 */
+    margin: 25px 10px;
+    font-size: 15px;
+  }
+  
+  #heading nav a {
+    padding: 5px;
+    background-color: darksalmon;
+  }
+  
+  #heading nav a:hover {
+    background-color: crimson;
+  }
+  
